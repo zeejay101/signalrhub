@@ -1,0 +1,13 @@
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\SignallRHub.exe
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\SignallRHub.dll
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\SignallRHub.deps.json
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\SignallRHub.runtimeconfig.json
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\SignallRHub.pdb
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fjehangeer\source\repos\SignallRHub\SignallRHub\obj\Release\net5.0\win-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
